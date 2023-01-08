@@ -1,4 +1,4 @@
-# VGGNET
+# :pill: VGGNET
 
 A transfer learning approach to predict COVID-19 from a chest X-ray of a patient.
 
