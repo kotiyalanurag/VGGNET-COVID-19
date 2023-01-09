@@ -1,4 +1,6 @@
-# :pill: VGGNET
+<h1 align=center>:pill: VGGNET
+
+![](https://img.shields.io/badge/Python-3.9-blue) ![](https://img.shields.io/badge/TensorFlow-2.11.0-blue) ![](https://img.shields.io/badge/LICENSE-MIT-red)</h1>
 
 A transfer learning approach to predict COVID-19 from a chest X-ray of a patient.
 
